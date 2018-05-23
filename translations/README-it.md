@@ -39,7 +39,7 @@ Questo è il mio piano di studio che copre più mesi per passare dall'essere uno
 
 Questo piano è previsto per **nuovi ingegneri del software** o per coloro che stanno intraprendendo questa strada partendo da un background di tipo sviluppo web/software semplice. Se hai molti anni di esperienza e affermi di avere molti anni di esperienza nell'ingegneria del software, aspettati un'intervista più difficile.
 
-Se hai molti anni di esperienza nello sviluppo web/software, considera che grandi aziende come Google, Amazon, Facebook e Microsoft vedono l'ingegneria del software come diverda dallo sviluppo web/software, e richiedono quindi conoscenze di Informatica.
+Se hai molti anni di esperienza nello sviluppo web/software, considera che grandi aziende come Google, Amazon, Facebook e Microsoft vedono l'ingegneria del software diversa dallo sviluppo web/software, e richiedono quindi conoscenze di Informatica.
 
 Se vuoi essere un ingegnere che tratta affidabilità o sistemi, ti conviene studiare di più dalla lista opzionale che include *networking* e *sicurezza*.
 
@@ -56,8 +56,8 @@ Se vuoi essere un ingegnere che tratta affidabilità o sistemi, ti conviene stud
 - [Scegli un linguaggio per l'intervista](#scegli-un-linguaggio-per-lintervista)
 - [Lista di libri](#lista-dei-libri)
 - [Prima di cominciare](#prima-di-cominciare)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
+- [Cosa non affronteremo](#what-you-wont-see-covered)
+- [Prerequisiti](#prerequisite-knowledge)
 - [Il piano giornaliero](#il-piano-giornaliero)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
