@@ -39,7 +39,7 @@ Questo è il mio piano di studio che copre più mesi per passare dall'essere uno
 
 Questo piano è previsto per **nuovi ingegneri del software** o per coloro che stanno intraprendendo questa strada partendo da un background di tipo sviluppo web/software semplice. Se hai molti anni di esperienza e affermi di avere molti anni di esperienza nell'ingegneria del software, aspettati un'intervista più difficile.
 
-Se hai molti anni di esperienza nello sviluppo web/software, considera che grandi aziende come Google, Amazon, Facebook e Microsoft vedono l'ingegneria del software come diverda dallo sviluppo web/software, e richiedono quindi conoscenze di Informatica.
+Se hai molti anni di esperienza nello sviluppo web/software, considera che grandi aziende come Google, Amazon, Facebook e Microsoft vedono l'ingegneria del software diversa dallo sviluppo web/software, e richiedono quindi conoscenze di Informatica.
 
 Se vuoi essere un ingegnere che tratta affidabilità o sistemi, ti conviene studiare di più dalla lista opzionale che include *networking* e *sicurezza*.
 
@@ -56,8 +56,8 @@ Se vuoi essere un ingegnere che tratta affidabilità o sistemi, ti conviene stud
 - [Scegli un linguaggio per l'intervista](#scegli-un-linguaggio-per-lintervista)
 - [Lista di libri](#lista-dei-libri)
 - [Prima di cominciare](#prima-di-cominciare)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
+- [Cosa non copriremo](#what-you-wont-see-covered)
+- [Prerequisiti](#prerequisite-knowledge)
 - [Il piano giornaliero](#il-piano-giornaliero)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
@@ -110,11 +110,11 @@ Se vuoi essere un ingegnere che tratta affidabilità o sistemi, ti conviene stud
 - [Final Review](#final-review)
 - [Coding Question Practice](#coding-question-practice)
 - [Coding exercises/challenges](#coding-exerciseschallenges)
-- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-- [Your Resume](#your-resume)
+- [Una volta che sei vicino al colloquio](#once-youre-closer-to-the-interview)
+- [Il tuo curriculum](#your-resume)
 - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-- [Have questions for the interviewer](#have-questions-for-the-interviewer)
-- [Once You've Got The Job](#once-youve-got-the-job)
+- [Poni domande all'intervistatore](#have-questions-for-the-interviewer)
+- [Una volta ottenuto il lavoro](#once-youve-got-the-job)
 
 ---------------- Everything below this point is optional ----------------
 
